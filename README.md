@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fcappon
-- 👀 I’m interested in science!
-- 🌱 I’m currently learning html/css/java
+- 👋 Hi, I’m @fcappon a doctoral researcher at Brunel University London
+- 👀 I’m interested in science! 
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on webdeisgn
 
 
