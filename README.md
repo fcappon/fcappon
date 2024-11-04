@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fcappon a doctoral researcher at Brunel University London
-- 👀 I’m interested in science! 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on webdeisgn
+- 👋 Hi, I’m @fcappon a hobby coder
+- 👀 I’m interested in anything creative
+- 🌱 I’m currently learning Godot
+- 💞️ I’m looking to collaborate game design
 
 
 <!---
